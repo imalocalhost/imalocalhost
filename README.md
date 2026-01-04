@@ -1,4 +1,4 @@
-# Hi, I'm [imalocalhost] 👋
+# Hi, I'm imalocalhost 👋
 
 ## 🚀 AI Platform Engineer in Training
 
